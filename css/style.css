@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+   
+#head{
+    background: url(/img/background.jpg);
+    background-repeat: none;
+    background-size: cover;
+    background-attachment: fixed;
+    min-height: 700px;
+    width: 100%;
+}
+#head .dark-overlay{
+    position: absolute;
+    width: 100%;
+    min-height: 700px;
+    background-color: rgba(0,0,0,0.3);
+}
+#head .card{
+    height: 600px;
+    width: 340px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
